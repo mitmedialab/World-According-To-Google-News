@@ -1,0 +1,89 @@
+body {
+    background: url("../img/texture-noise.png") repeat scroll 0 0 transparent;
+    font-family: "Helvetica Neue",Helvetica;
+    font-size: 14px;
+    margin: 0;
+    overflow: hidden;
+}
+#chart, #header, #footer {
+    position: absolute;
+    top: 0;
+}
+#header, #footer {
+    display: block;
+    font-size: 36px;
+    font-weight: 300;
+    text-shadow: 0 1px 0 #FFFFFF;
+    z-index: 1;
+}
+#header.inverted, #footer.inverted {
+    color: #FFFFFF;
+    text-shadow: 0 1px 4px #000000;
+}
+#header {
+    left: 140px;
+    top: 80px;
+    width: 1000px;
+}
+#footer {
+    right: 140px;
+    text-align: right;
+    top: 680px;
+}
+rect {
+    fill: none;
+    pointer-events: all;
+}
+pre {
+    font-size: 18px;
+}
+line {
+    stroke: #000000;
+    stroke-width: 1.5px;
+}
+.string, .regexp {
+    color: #FF3399;
+}
+.keyword {
+    color: #0000CC;
+}
+.comment {
+    color: #777777;
+    font-style: oblique;
+}
+.number {
+    color: #336699;
+}
+.class, .special {
+    color: #1181B8;
+}
+a:link, a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+a:hover {
+    color: #666666;
+}
+.hint {
+    color: #999999;
+    font-size: 12px;
+    position: absolute;
+    right: 0;
+    width: 1280px;
+}
+
+
+svg {
+  width: 1280px;
+  height: 800px;
+  pointer-events: all;
+}
+
+circle {
+  fill: #dbe4f0;
+}
+
+path {
+  fill: #aaa;
+  stroke: #fff;
+}
