@@ -1,0 +1,2183 @@
+date_period,orig_country,orig_lang,dest_country,num_results
+2005,kr,ko,Angola,13900
+2005,kr,ko,Burundi,1490
+2005,kr,ko,Benin,199
+2005,kr,ko,Burkina Faso,526
+2005,kr,ko,Botswana,2730
+2005,kr,ko,Central African Republic,667
+2005,kr,ko,Cote d'Ivoire,6850
+2005,kr,ko,Cameroon,9060
+2005,kr,ko,Republic of the Congo,964
+2005,kr,ko,Eritrea,161
+2005,kr,ko,Ethiopia,4220
+2005,kr,ko,Gabon,1050
+2005,kr,ko,Ghana,31900
+2005,kr,ko,Guinea,1280
+2005,kr,ko,Gambia,1700
+2005,kr,ko,Guinea-Bissau,51
+2005,kr,ko,Kenya,20800
+2005,kr,ko,Liberia,870
+2005,kr,ko,Lesotho,108
+2005,kr,ko,Madagascar,909
+2005,kr,ko,Mali,4800
+2005,kr,ko,Mozambique,3540
+2005,kr,ko,Mauritania,136
+2005,kr,ko,Mauritius,209
+2005,kr,ko,Malawi,5710
+2005,kr,ko,Namibia,640
+2005,kr,ko,Niger,1450
+2005,kr,ko,Nigeria,43900
+2005,kr,ko,Rwanda,1450
+2005,kr,ko,Sudan,0
+2005,kr,ko,Senegal,11800
+2005,kr,ko,Sierra Leone,560
+2005,kr,ko,Somalia,9880
+2005,kr,ko,Chad,1020
+2005,kr,ko,Togo,5000
+2005,kr,ko,Tanzania,9290
+2005,kr,ko,Uganda,2150
+2005,kr,ko,South Africa,27000
+2005,kr,ko,Democratic Republic of the Congo,587
+2005,kr,ko,Zambia,5290
+2005,kr,ko,Zimbabwe,8850
+2005,kr,ko,Afghanistan,26300
+2005,kr,ko,Bangladesh,15300
+2005,kr,ko,Bhutan,0
+2005,kr,ko,India,302000
+2005,kr,ko,Sri Lanka,18000
+2005,kr,ko,Nepal,12400
+2005,kr,ko,Pakistan,20500
+2005,kr,ko,Canada,228000
+2005,kr,ko,United States,926000
+2005,kr,ko,United Arab Emirates,37100
+2005,kr,ko,Algeria,11100
+2005,kr,ko,Egypt,28400
+2005,kr,ko,Iran,397000
+2005,kr,ko,Iraq,55300
+2005,kr,ko,Israel,98900
+2005,kr,ko,Jordan,68400
+2005,kr,ko,Kuwait,20600
+2005,kr,ko,Lebanon,26800
+2005,kr,ko,Libya,26600
+2005,kr,ko,Morocco,10500
+2005,kr,ko,Oman,0
+2005,kr,ko,Qatar,41300
+2005,kr,ko,Saudi Arabia,27000
+2005,kr,ko,Syria,51500
+2005,kr,ko,Tunisia,6670
+2005,kr,ko,West Bank,8536
+2005,kr,ko,Yemen,18500
+2005,kr,ko,Argentina,119000
+2005,kr,ko,Bolivia,20800
+2005,kr,ko,Brazil,157000
+2005,kr,ko,Chile,69800
+2005,kr,ko,Colombia,0
+2005,kr,ko,Costa Rica,14200
+2005,kr,ko,Cuba,12600
+2005,kr,ko,Dominican Republic,21
+2005,kr,ko,Ecuador,25800
+2005,kr,ko,Guatemala,4020
+2005,kr,ko,Honduras,14500
+2005,kr,ko,Haiti,10100
+2005,kr,ko,Jamaica,13100
+2005,kr,ko,Mexico,130000
+2005,kr,ko,Nicaragua,8900
+2005,kr,ko,Panama,4980
+2005,kr,ko,Peru,9580
+2005,kr,ko,Puerto Rico,80
+2005,kr,ko,Paraguay,7390
+2005,kr,ko,El Salvador,31500
+2005,kr,ko,Uruguay,27500
+2005,kr,ko,Venezuela,47300
+2005,kr,ko,Albania,705
+2005,kr,ko,Armenia,1110
+2005,kr,ko,Austria,39100
+2005,kr,ko,Azerbaijan,0
+2005,kr,ko,Belgium,30800
+2005,kr,ko,Bulgaria,14700
+2005,kr,ko,Bosnia and Herzegovina,962
+2005,kr,ko,Belarus,0
+2005,kr,ko,Switzerland,70600
+2005,kr,ko,Czech Republic,642
+2005,kr,ko,Germany,442000
+2005,kr,ko,Denmark,30300
+2005,kr,ko,Spain,131000
+2005,kr,ko,Estonia,1920
+2005,kr,ko,Finland,13800
+2005,kr,ko,France,451000
+2005,kr,ko,United Kingdom,390000
+2005,kr,ko,Georgia,5630
+2005,kr,ko,Greece,55200
+2005,kr,ko,Greenland,2980
+2005,kr,ko,Croatia,6350
+2005,kr,ko,Hungary,17800
+2005,kr,ko,Ireland,129000
+2005,kr,ko,Italy,149000
+2005,kr,ko,Kazakhstan,0
+2005,kr,ko,Kyrgyzstan,146
+2005,kr,ko,Lithuania,4340
+2005,kr,ko,Macedonia,3630
+2005,kr,ko,Netherlands,50200
+2005,kr,ko,Norway,29400
+2005,kr,ko,Poland,18100
+2005,kr,ko,Portugal,83800
+2005,kr,ko,Romania,7400
+2005,kr,ko,Russia,293000
+2005,kr,ko,Serbia,9140
+2005,kr,ko,Slovakia,6960
+2005,kr,ko,Slovenia,6620
+2005,kr,ko,Sweden,50800
+2005,kr,ko,Tajikistan,2470
+2005,kr,ko,Turkmenistan,2910
+2005,kr,ko,Turkey,70200
+2005,kr,ko,Ukraine,27500
+2005,kr,ko,Uzbekistan,0
+2005,kr,ko,Australia,294000
+2005,kr,ko,China,660000
+2005,kr,ko,Hong Kong,161000
+2005,kr,ko,Indonesia,107000
+2005,kr,ko,Japan,843000
+2005,kr,ko,Cambodia,17500
+2005,kr,ko,South Korea,1230000
+2005,kr,ko,Laos,5320
+2005,kr,ko,Macau,12000
+2005,kr,ko,Myanmar,11000
+2005,kr,ko,Mongolia,20900
+2005,kr,ko,Malaysia,72100
+2005,kr,ko,New Zealand,71800
+2005,kr,ko,Philippines,62200
+2005,kr,ko,Papua New Guinea,911
+2005,kr,ko,North Korea,693000
+2005,kr,ko,Singapore,91600
+2005,kr,ko,Thailand,87300
+2005,kr,ko,Vietnam,89600
+2005,kr,ko,Taiwan,206000
+2005,kr,ko,French Guiana,74
+2005,kr,ko,South Sudan,1940
+2005,ru,ru,Angola,28
+2005,ru,ru,Burundi,22
+2005,ru,ru,Benin,7
+2005,ru,ru,Burkina Faso,5
+2005,ru,ru,Botswana,3
+2005,ru,ru,Central African Republic,0
+2005,ru,ru,Cote d'Ivoire,14
+2005,ru,ru,Cameroon,30
+2005,ru,ru,Republic of the Congo,25
+2005,ru,ru,Eritrea,18
+2005,ru,ru,Ethiopia,42
+2005,ru,ru,Gabon,7
+2005,ru,ru,Ghana,28
+2005,ru,ru,Guinea,16
+2005,ru,ru,Gambia,7
+2005,ru,ru,Guinea-Bissau,3
+2005,ru,ru,Kenya,53
+2005,ru,ru,Liberia,19
+2005,ru,ru,Lesotho,5
+2005,ru,ru,Madagascar,12
+2005,ru,ru,Mali,17
+2005,ru,ru,Mozambique,16
+2005,ru,ru,Mauritania,15
+2005,ru,ru,Mauritius,14
+2005,ru,ru,Malawi,6
+2005,ru,ru,Namibia,16
+2005,ru,ru,Niger,18
+2005,ru,ru,Nigeria,83
+2005,ru,ru,Rwanda,37
+2005,ru,ru,Sudan,70
+2005,ru,ru,Senegal,21
+2005,ru,ru,Sierra Leone,31
+2005,ru,ru,Somalia,45
+2005,ru,ru,Chad,39
+2005,ru,ru,Togo,21400
+2005,ru,ru,Tanzania,28
+2005,ru,ru,Uganda,25
+2005,ru,ru,South Africa,77
+2005,ru,ru,Democratic Republic of the Congo,28
+2005,ru,ru,Zambia,20
+2005,ru,ru,Zimbabwe,44
+2005,ru,ru,Afghanistan,958
+2005,ru,ru,Bangladesh,36
+2005,ru,ru,Bhutan,10
+2005,ru,ru,India,607
+2005,ru,ru,Sri Lanka,36
+2005,ru,ru,Nepal,37
+2005,ru,ru,Pakistan,139
+2005,ru,ru,Canada,163
+2005,ru,ru,United States,7709
+2005,ru,ru,United Arab Emirates,55
+2005,ru,ru,Algeria,51
+2005,ru,ru,Egypt,89
+2005,ru,ru,Iran,1580
+2005,ru,ru,Iraq,1800
+2005,ru,ru,Israel,1690
+2005,ru,ru,Jordan,88
+2005,ru,ru,Kuwait,64
+2005,ru,ru,Lebanon,129
+2005,ru,ru,Libya,64
+2005,ru,ru,Morocco,52
+2005,ru,ru,Oman,17
+2005,ru,ru,Qatar,57
+2005,ru,ru,Saudi Arabia,134
+2005,ru,ru,Syria,153
+2005,ru,ru,Tunisia,40
+2005,ru,ru,West Bank,101
+2005,ru,ru,Yemen,31
+2005,ru,ru,Argentina,90
+2005,ru,ru,Bolivia,16
+2005,ru,ru,Brazil,161
+2005,ru,ru,Chile,77
+2005,ru,ru,Colombia,99
+2005,ru,ru,Costa Rica,2
+2005,ru,ru,Cuba,116
+2005,ru,ru,Dominican Republic,4
+2005,ru,ru,Ecuador,30
+2005,ru,ru,Guatemala,27
+2005,ru,ru,Honduras,24
+2005,ru,ru,Haiti,34
+2005,ru,ru,Jamaica,29
+2005,ru,ru,Mexico,109
+2005,ru,ru,Nicaragua,25
+2005,ru,ru,Panama,25
+2005,ru,ru,Peru,66
+2005,ru,ru,Puerto Rico,21
+2005,ru,ru,Paraguay,14
+2005,ru,ru,El Salvador,23
+2005,ru,ru,Uruguay,29
+2005,ru,ru,Venezuela,81
+2005,ru,ru,Albania,45
+2005,ru,ru,Armenia,2090
+2005,ru,ru,Austria,164
+2005,ru,ru,Azerbaijan,2630
+2005,ru,ru,Belgium,140
+2005,ru,ru,Bulgaria,147
+2005,ru,ru,Bosnia and Herzegovina,9
+2005,ru,ru,Belarus,1810
+2005,ru,ru,Switzerland,823
+2005,ru,ru,Czech Republic,68
+2005,ru,ru,Germany,2920
+2005,ru,ru,Denmark,120
+2005,ru,ru,Spain,835
+2005,ru,ru,Estonia,76
+2005,ru,ru,Finland,158
+2005,ru,ru,France,2210
+2005,ru,ru,United Kingdom,2240
+2005,ru,ru,Georgia,2500
+2005,ru,ru,Greece,541
+2005,ru,ru,Greenland,14
+2005,ru,ru,Croatia,103
+2005,ru,ru,Hungary,146
+2005,ru,ru,Ireland,103
+2005,ru,ru,Italy,143
+2005,ru,ru,Kazakhstan,1200
+2005,ru,ru,Kyrgyzstan,100
+2005,ru,ru,Lithuania,532
+2005,ru,ru,Macedonia,56
+2005,ru,ru,Netherlands,151
+2005,ru,ru,Norway,137
+2005,ru,ru,Poland,750
+2005,ru,ru,Portugal,122
+2005,ru,ru,Romania,156
+2005,ru,ru,Russia,25800
+2005,ru,ru,Serbia,92
+2005,ru,ru,Slovakia,124
+2005,ru,ru,Slovenia,39
+2005,ru,ru,Sweden,513
+2005,ru,ru,Tajikistan,607
+2005,ru,ru,Turkmenistan,106
+2005,ru,ru,Turkey,1480
+2005,ru,ru,Ukraine,9360
+2005,ru,ru,Uzbekistan,1230
+2005,ru,ru,Australia,616
+2005,ru,ru,China,2240
+2005,ru,ru,Hong Kong,33
+2005,ru,ru,Indonesia,124
+2005,ru,ru,Japan,1450
+2005,ru,ru,Cambodia,12
+2005,ru,ru,South Korea,142
+2005,ru,ru,Laos,17
+2005,ru,ru,Macau,6
+2005,ru,ru,Myanmar,12
+2005,ru,ru,Mongolia,58
+2005,ru,ru,Malaysia,84
+2005,ru,ru,New Zealand,62
+2005,ru,ru,Philippines,30
+2005,ru,ru,Papua New Guinea,5
+2005,ru,ru,North Korea,52
+2005,ru,ru,Singapore,96
+2005,ru,ru,Thailand,63
+2005,ru,ru,Vietnam,41
+2005,ru,ru,Taiwan,81
+2005,ru,ru,French Guiana,0
+2005,ru,ru,South Sudan,14
+2005,fr,fr,Angola,818
+2005,fr,fr,Burundi,190
+2005,fr,fr,Benin,952
+2005,fr,fr,Burkina Faso,2300
+2005,fr,fr,Botswana,105
+2005,fr,fr,Central African Republic,105
+2005,fr,fr,Cote d'Ivoire,2150
+2005,fr,fr,Cote d'Ivoire,4295
+2005,fr,fr,Cameroon,2650
+2005,fr,fr,Republic of the Congo,740
+2005,fr,fr,Republic of the Congo,788
+2005,fr,fr,Eritrea,120
+2005,fr,fr,Ethiopia,544
+2005,fr,fr,Gabon,741
+2005,fr,fr,Ghana,894
+2005,fr,fr,Guinea,1150
+2005,fr,fr,Gambia,136
+2005,fr,fr,Guinea-Bissau,176
+2005,fr,fr,Kenya,854
+2005,fr,fr,Liberia,186
+2005,fr,fr,Lesotho,75
+2005,fr,fr,Madagascar,684
+2005,fr,fr,Mali,1490
+2005,fr,fr,Mozambique,153
+2005,fr,fr,Mauritania,884
+2005,fr,fr,Mauritius,1510
+2005,fr,fr,Malawi,101
+2005,fr,fr,Namibia,91
+2005,fr,fr,Niger,984
+2005,fr,fr,Nigeria,1510
+2005,fr,fr,Rwanda,1310
+2005,fr,fr,Sudan,1400
+2005,fr,fr,Senegal,4340
+2005,fr,fr,Sierra Leone,178
+2005,fr,fr,Somalia,176
+2005,fr,fr,Chad,652
+2005,fr,fr,Togo,2210
+2005,fr,fr,Tanzania,508
+2005,fr,fr,Uganda,655
+2005,fr,fr,South Africa,4120
+2005,fr,fr,Democratic Republic of the Congo,416
+2005,fr,fr,Democratic Republic of the Congo,833
+2005,fr,fr,Democratic Republic of the Congo,1091
+2005,fr,fr,Zambia,162
+2005,fr,fr,Zimbabwe,175
+2005,fr,fr,Afghanistan,1330
+2005,fr,fr,Bangladesh,153
+2005,fr,fr,Bhutan,16
+2005,fr,fr,India,2190
+2005,fr,fr,Sri Lanka,629
+2005,fr,fr,Nepal,102
+2005,fr,fr,Pakistan,1200
+2005,fr,fr,Canada,5790
+2005,fr,fr,United States,3700
+2005,fr,fr,United States,3828
+2005,fr,fr,United States,7528
+2005,fr,fr,United States,11228
+2005,fr,fr,United Arab Emirates,80
+2005,fr,fr,United Arab Emirates,147
+2005,fr,fr,Algeria,4290
+2005,fr,fr,Egypt,2360
+2005,fr,fr,Iran,2110
+2005,fr,fr,Iraq,4730
+2005,fr,fr,Israel,3670
+2005,fr,fr,Jordan,843
+2005,fr,fr,Kuwait,183
+2005,fr,fr,Lebanon,1680
+2005,fr,fr,Libya,903
+2005,fr,fr,Morocco,5890
+2005,fr,fr,Oman,60
+2005,fr,fr,Qatar,516
+2005,fr,fr,Saudi Arabia,978
+2005,fr,fr,Syria,2010
+2005,fr,fr,Tunisia,2160
+2005,fr,fr,West Bank,500
+2005,fr,fr,West Bank,1230
+2005,fr,fr,West Bank,1508
+2005,fr,fr,Yemen,92
+2005,fr,fr,Argentina,1030
+2005,fr,fr,Bolivia,107
+2005,fr,fr,Brazil,2140
+2005,fr,fr,Chile,604
+2005,fr,fr,Colombia,788
+2005,fr,fr,Costa Rica,107
+2005,fr,fr,Cuba,842
+2005,fr,fr,Dominican Republic,128
+2005,fr,fr,Ecuador,168
+2005,fr,fr,Guatemala,89
+2005,fr,fr,Honduras,100
+2005,fr,fr,Haiti,1460
+2005,fr,fr,Jamaica,123
+2005,fr,fr,Mexico,1660
+2005,fr,fr,Nicaragua,89
+2005,fr,fr,Panama,102
+2005,fr,fr,Peru,156
+2005,fr,fr,Puerto Rico,11
+2005,fr,fr,Paraguay,69
+2005,fr,fr,El Salvador,38
+2005,fr,fr,Uruguay,119
+2005,fr,fr,Venezuela,521
+2005,fr,fr,Albania,73
+2005,fr,fr,Armenia,55
+2005,fr,fr,Austria,946
+2005,fr,fr,Azerbaijan,78
+2005,fr,fr,Belgium,1980
+2005,fr,fr,Bulgaria,172
+2005,fr,fr,Bosnia and Herzegovina,85
+2005,fr,fr,Belarus,69
+2005,fr,fr,Switzerland,4720
+2005,fr,fr,Czech Republic,646
+2005,fr,fr,Germany,5870
+2005,fr,fr,Denmark,839
+2005,fr,fr,Spain,4030
+2005,fr,fr,Estonia,117
+2005,fr,fr,Finland,590
+2005,fr,fr,France,30900
+2005,fr,fr,United Kingdom,985
+2005,fr,fr,United Kingdom,1970
+2005,fr,fr,Georgia,184
+2005,fr,fr,Greece,989
+2005,fr,fr,Greenland,43
+2005,fr,fr,Croatia,198
+2005,fr,fr,Hungary,577
+2005,fr,fr,Ireland,857
+2005,fr,fr,Italy,3640
+2005,fr,fr,Kazakhstan,167
+2005,fr,fr,Kyrgyzstan,55
+2005,fr,fr,Lithuania,156
+2005,fr,fr,Macedonia,82
+2005,fr,fr,Netherlands,1750
+2005,fr,fr,Norway,855
+2005,fr,fr,Poland,1140
+2005,fr,fr,Portugal,1030
+2005,fr,fr,Romania,898
+2005,fr,fr,Russia,5460
+2005,fr,fr,Serbia,538
+2005,fr,fr,Slovakia,204
+2005,fr,fr,Slovenia,147
+2005,fr,fr,Sweden,1080
+2005,fr,fr,Tajikistan,55
+2005,fr,fr,Turkmenistan,34
+2005,fr,fr,Turkey,1890
+2005,fr,fr,Ukraine,698
+2005,fr,fr,Uzbekistan,102
+2005,fr,fr,Australia,2040
+2005,fr,fr,China,7900
+2005,fr,fr,Hong Kong,1040
+2005,fr,fr,Indonesia,1160
+2005,fr,fr,Japan,4210
+2005,fr,fr,Cambodia,144
+2005,fr,fr,South Korea,1530
+2005,fr,fr,Laos,75
+2005,fr,fr,Macau,34
+2005,fr,fr,Macau,69
+2005,fr,fr,Myanmar,80
+2005,fr,fr,Mongolia,111
+2005,fr,fr,Malaysia,597
+2005,fr,fr,New Zealand,501
+2005,fr,fr,Philippines,193
+2005,fr,fr,Papua New Guinea,44
+2005,fr,fr,North Korea,831
+2005,fr,fr,Singapore,797
+2005,fr,fr,Thailand,820
+2005,fr,fr,Vietnam,567
+2005,fr,fr,Taiwan,506
+2005,fr,fr,French Guiana,58
+2005,fr,fr,South Sudan,86
+2005,cn,zh-zh-TW,Angola,165
+2005,cn,zh-zh-TW,Burundi,45
+2005,cn,zh-zh-TW,Benin,126
+2005,cn,zh-zh-TW,Burkina Faso,91
+2005,cn,zh-zh-TW,Botswana,39
+2005,cn,zh-zh-TW,Central African Republic,1140
+2005,cn,zh-zh-TW,Cote d'Ivoire,219
+2005,cn,zh-zh-TW,Cameroon,246
+2005,cn,zh-zh-TW,Republic of the Congo,54
+2005,cn,zh-zh-TW,Eritrea,39
+2005,cn,zh-zh-TW,Ethiopia,252
+2005,cn,zh-zh-TW,Gabon,83
+2005,cn,zh-zh-TW,Ghana,283
+2005,cn,zh-zh-TW,Guinea,163
+2005,cn,zh-zh-TW,Gambia,35
+2005,cn,zh-zh-TW,Guinea-Bissau,37
+2005,cn,zh-zh-TW,Kenya,578
+2005,cn,zh-zh-TW,Liberia,96
+2005,cn,zh-zh-TW,Lesotho,36
+2005,cn,zh-zh-TW,Madagascar,113
+2005,cn,zh-zh-TW,Mali,779
+2005,cn,zh-zh-TW,Mozambique,101
+2005,cn,zh-zh-TW,Mauritania,48
+2005,cn,zh-zh-TW,Mauritius,116
+2005,cn,zh-zh-TW,Malawi,37
+2005,cn,zh-zh-TW,Namibia,62
+2005,cn,zh-zh-TW,Niger,76
+2005,cn,zh-zh-TW,Nigeria,858
+2005,cn,zh-zh-TW,Rwanda,127
+2005,cn,zh-zh-TW,Sudan,1910
+2005,cn,zh-zh-TW,Senegal,181
+2005,cn,zh-zh-TW,Sierra Leone,45
+2005,cn,zh-zh-TW,Somalia,122
+2005,cn,zh-zh-TW,Chad,54
+2005,cn,zh-zh-TW,Togo,2890
+2005,cn,zh-zh-TW,Tanzania,129
+2005,cn,zh-zh-TW,Uganda,134
+2005,cn,zh-zh-TW,South Africa,1890
+2005,cn,zh-zh-TW,Democratic Republic of the Congo,34
+2005,cn,zh-zh-TW,Zambia,98
+2005,cn,zh-zh-TW,Zimbabwe,195
+2005,cn,zh-zh-TW,Afghanistan,2710
+2005,cn,zh-zh-TW,Bangladesh,511
+2005,cn,zh-zh-TW,Bhutan,4630
+2005,cn,zh-zh-TW,India,7200
+2005,cn,zh-zh-TW,Sri Lanka,1090
+2005,cn,zh-zh-TW,Nepal,572
+2005,cn,zh-zh-TW,Pakistan,2930
+2005,cn,zh-zh-TW,Canada,5780
+2005,cn,zh-zh-TW,United States,150000
+2005,cn,zh-zh-TW,United Arab Emirates,602
+2005,cn,zh-zh-TW,Algeria,299
+2005,cn,zh-zh-TW,Egypt,2350
+2005,cn,zh-zh-TW,Iran,3880
+2005,cn,zh-zh-TW,Iraq,9440
+2005,cn,zh-zh-TW,Israel,3940
+2005,cn,zh-zh-TW,Jordan,1900
+2005,cn,zh-zh-TW,Kuwait,804
+2005,cn,zh-zh-TW,Lebanon,1410
+2005,cn,zh-zh-TW,Libya,226
+2005,cn,zh-zh-TW,Morocco,518
+2005,cn,zh-zh-TW,Oman,211
+2005,cn,zh-zh-TW,Qatar,1130
+2005,cn,zh-zh-TW,Saudi Arabia,833
+2005,cn,zh-zh-TW,Syria,1670
+2005,cn,zh-zh-TW,Tunisia,228
+2005,cn,zh-zh-TW,West Bank,830
+2005,cn,zh-zh-TW,Yemen,134
+2005,cn,zh-zh-TW,Argentina,2740
+2005,cn,zh-zh-TW,Bolivia,120
+2005,cn,zh-zh-TW,Brazil,5820
+2005,cn,zh-zh-TW,Chile,795
+2005,cn,zh-zh-TW,Colombia,1680
+2005,cn,zh-zh-TW,Costa Rica,591
+2005,cn,zh-zh-TW,Cuba,1250
+2005,cn,zh-zh-TW,Dominican Republic,28
+2005,cn,zh-zh-TW,Ecuador,166
+2005,cn,zh-zh-TW,Guatemala,102
+2005,cn,zh-zh-TW,Honduras,108
+2005,cn,zh-zh-TW,Haiti,150
+2005,cn,zh-zh-TW,Jamaica,125
+2005,cn,zh-zh-TW,Mexico,2510
+2005,cn,zh-zh-TW,Nicaragua,83
+2005,cn,zh-zh-TW,Panama,264
+2005,cn,zh-zh-TW,Peru,850
+2005,cn,zh-zh-TW,Puerto Rico,116
+2005,cn,zh-zh-TW,Paraguay,127
+2005,cn,zh-zh-TW,El Salvador,80
+2005,cn,zh-zh-TW,Uruguay,559
+2005,cn,zh-zh-TW,Venezuela,647
+2005,cn,zh-zh-TW,Albania,106
+2005,cn,zh-zh-TW,Armenia,117
+2005,cn,zh-zh-TW,Austria,1430
+2005,cn,zh-zh-TW,Azerbaijan,177
+2005,cn,zh-zh-TW,Belgium,1940
+2005,cn,zh-zh-TW,Bulgaria,774
+2005,cn,zh-zh-TW,Bosnia and Herzegovina,134
+2005,cn,zh-zh-TW,Belarus,555
+2005,cn,zh-zh-TW,Switzerland,3600
+2005,cn,zh-zh-TW,Czech Republic,59
+2005,cn,zh-zh-TW,Germany,16500
+2005,cn,zh-zh-TW,Denmark,2040
+2005,cn,zh-zh-TW,Spain,6680
+2005,cn,zh-zh-TW,Estonia,140
+2005,cn,zh-zh-TW,Finland,1280
+2005,cn,zh-zh-TW,France,14000
+2005,cn,zh-zh-TW,United Kingdom,20800
+2005,cn,zh-zh-TW,Georgia,576
+2005,cn,zh-zh-TW,Greece,1710
+2005,cn,zh-zh-TW,Greenland,25
+2005,cn,zh-zh-TW,Croatia,563
+2005,cn,zh-zh-TW,Hungary,776
+2005,cn,zh-zh-TW,Ireland,1530
+2005,cn,zh-zh-TW,Italy,8070
+2005,cn,zh-zh-TW,Kazakhstan,1140
+2005,cn,zh-zh-TW,Kyrgyzstan,899
+2005,cn,zh-zh-TW,Lithuania,564
+2005,cn,zh-zh-TW,Macedonia,104
+2005,cn,zh-zh-TW,Netherlands,5340
+2005,cn,zh-zh-TW,Norway,1160
+2005,cn,zh-zh-TW,Poland,1840
+2005,cn,zh-zh-TW,Portugal,1760
+2005,cn,zh-zh-TW,Romania,1020
+2005,cn,zh-zh-TW,Russia,12300
+2005,cn,zh-zh-TW,Serbia,172
+2005,cn,zh-zh-TW,Slovakia,559
+2005,cn,zh-zh-TW,Slovenia,189
+2005,cn,zh-zh-TW,Sweden,2650
+2005,cn,zh-zh-TW,Tajikistan,190
+2005,cn,zh-zh-TW,Turkmenistan,110
+2005,cn,zh-zh-TW,Turkey,2380
+2005,cn,zh-zh-TW,Ukraine,2030
+2005,cn,zh-zh-TW,Uzbekistan,796
+2005,cn,zh-zh-TW,Australia,7430
+2005,cn,zh-zh-TW,China,466000
+2005,cn,zh-zh-TW,Hong Kong,30600
+2005,cn,zh-zh-TW,Indonesia,1850
+2005,cn,zh-zh-TW,Japan,33100
+2005,cn,zh-zh-TW,Cambodia,934
+2005,cn,zh-zh-TW,South Korea,18700
+2005,cn,zh-zh-TW,Laos,661
+2005,cn,zh-zh-TW,Macau,5130
+2005,cn,zh-zh-TW,Myanmar,1430
+2005,cn,zh-zh-TW,Mongolia,1830
+2005,cn,zh-zh-TW,Malaysia,3850
+2005,cn,zh-zh-TW,New Zealand,1500
+2005,cn,zh-zh-TW,Philippines,2420
+2005,cn,zh-zh-TW,Papua New Guinea,40
+2005,cn,zh-zh-TW,North Korea,6540
+2005,cn,zh-zh-TW,Singapore,6780
+2005,cn,zh-zh-TW,Thailand,5620
+2005,cn,zh-zh-TW,Vietnam,3070
+2005,cn,zh-zh-TW,Taiwan,25500
+2005,cn,zh-zh-TW,French Guiana,20
+2005,cn,zh-zh-TW,South Sudan,96
+2005,us,en,Angola,7840
+2005,us,en,Burundi,2030
+2005,us,en,Benin,1610
+2005,us,en,Burkina Faso,3940
+2005,us,en,Botswana,2060
+2005,us,en,Central African Republic,996
+2005,us,en,Cote d'Ivoire,3880
+2005,us,en,Cameroon,2500
+2005,us,en,Republic of the Congo,1385
+2005,us,en,Eritrea,1990
+2005,us,en,Ethiopia,5140
+2005,us,en,Gabon,1580
+2005,us,en,Ghana,7000
+2005,us,en,Guinea,5770
+2005,us,en,Gambia,792
+2005,us,en,Guinea-Bissau,517
+2005,us,en,Kenya,10300
+2005,us,en,Liberia,3450
+2005,us,en,Lesotho,851
+2005,us,en,Madagascar,2980
+2005,us,en,Mali,5380
+2005,us,en,Mozambique,2300
+2005,us,en,Mauritania,1670
+2005,us,en,Mauritius,1350
+2005,us,en,Malawi,1590
+2005,us,en,Namibia,2850
+2005,us,en,Niger,5500
+2005,us,en,Nigeria,14800
+2005,us,en,Rwanda,7040
+2005,us,en,Sudan,12700
+2005,us,en,Senegal,4000
+2005,us,en,Sierra Leone,2130
+2005,us,en,Somalia,4980
+2005,us,en,Chad,26600
+2005,us,en,Togo,5220
+2005,us,en,Tanzania,3790
+2005,us,en,Uganda,6540
+2005,us,en,South Africa,37000
+2005,us,en,Democratic Republic of the Congo,1353
+2005,us,en,Zambia,2650
+2005,us,en,Zimbabwe,10300
+2005,us,en,Afghanistan,49700
+2005,us,en,Bangladesh,11400
+2005,us,en,Bhutan,950
+2005,us,en,India,148000
+2005,us,en,Sri Lanka,22900
+2005,us,en,Nepal,6860
+2005,us,en,Pakistan,46900
+2005,us,en,Canada,79900
+2005,us,en,United States,1294075
+2005,us,en,United Arab Emirates,4405
+2005,us,en,Algeria,4660
+2005,us,en,Egypt,24400
+2005,us,en,Iran,53600
+2005,us,en,Iraq,217000
+2005,us,en,Israel,86900
+2005,us,en,Jordan,43600
+2005,us,en,Kuwait,12600
+2005,us,en,Lebanon,24700
+2005,us,en,Libya,5310
+2005,us,en,Morocco,4680
+2005,us,en,Oman,2350
+2005,us,en,Qatar,8370
+2005,us,en,Saudi Arabia,18700
+2005,us,en,Syria,25300
+2005,us,en,Tunisia,3350
+2005,us,en,West Bank,24416
+2005,us,en,Yemen,2980
+2005,us,en,Argentina,58800
+2005,us,en,Bolivia,16800
+2005,us,en,Brazil,23600
+2005,us,en,Chile,34700
+2005,us,en,Colombia,28000
+2005,us,en,Costa Rica,13300
+2005,us,en,Cuba,33100
+2005,us,en,Dominican Republic,5390
+2005,us,en,Ecuador,17100
+2005,us,en,Guatemala,12100
+2005,us,en,Honduras,9850
+2005,us,en,Haiti,6380
+2005,us,en,Jamaica,9160
+2005,us,en,Mexico,70300
+2005,us,en,Nicaragua,9790
+2005,us,en,Panama,15100
+2005,us,en,Peru,6600
+2005,us,en,Puerto Rico,9830
+2005,us,en,Paraguay,9170
+2005,us,en,El Salvador,18800
+2005,us,en,Uruguay,27700
+2005,us,en,Venezuela,33500
+2005,us,en,Albania,1930
+2005,us,en,Armenia,5470
+2005,us,en,Austria,17000
+2005,us,en,Azerbaijan,7110
+2005,us,en,Belgium,11400
+2005,us,en,Bulgaria,9200
+2005,us,en,Bosnia and Herzegovina,1030
+2005,us,en,Belarus,4180
+2005,us,en,Switzerland,14800
+2005,us,en,Czech Republic,7550
+2005,us,en,Germany,84600
+2005,us,en,Denmark,9450
+2005,us,en,Spain,30600
+2005,us,en,Estonia,2910
+2005,us,en,Finland,8250
+2005,us,en,France,133000
+2005,us,en,United Kingdom,185350
+2005,us,en,Georgia,60800
+2005,us,en,Greece,8790
+2005,us,en,Greenland,798
+2005,us,en,Croatia,6810
+2005,us,en,Hungary,5420
+2005,us,en,Ireland,32100
+2005,us,en,Italy,39300
+2005,us,en,Kazakhstan,7530
+2005,us,en,Kyrgyzstan,5230
+2005,us,en,Lithuania,2890
+2005,us,en,Macedonia,2570
+2005,us,en,Netherlands,17000
+2005,us,en,Norway,9880
+2005,us,en,Poland,15900
+2005,us,en,Portugal,19900
+2005,us,en,Romania,10800
+2005,us,en,Russia,63600
+2005,us,en,Serbia,7550
+2005,us,en,Slovakia,5320
+2005,us,en,Slovenia,4130
+2005,us,en,Sweden,15800
+2005,us,en,Tajikistan,2080
+2005,us,en,Turkmenistan,1720
+2005,us,en,Turkey,25000
+2005,us,en,Ukraine,19200
+2005,us,en,Uzbekistan,5520
+2005,us,en,Australia,105000
+2005,us,en,China,134000
+2005,us,en,Hong Kong,33000
+2005,us,en,Indonesia,41700
+2005,us,en,Japan,101000
+2005,us,en,Cambodia,4310
+2005,us,en,South Korea,34700
+2005,us,en,Laos,2610
+2005,us,en,Macau,1285
+2005,us,en,Myanmar,3900
+2005,us,en,Mongolia,2540
+2005,us,en,Malaysia,16000
+2005,us,en,New Zealand,30400
+2005,us,en,Philippines,12500
+2005,us,en,Papua New Guinea,1880
+2005,us,en,North Korea,24500
+2005,us,en,Singapore,20400
+2005,us,en,Thailand,20800
+2005,us,en,Vietnam,31200
+2005,us,en,Taiwan,21900
+2005,us,en,French Guiana,68
+2005,us,en,South Sudan,3850
+2005,mx,es,Angola,541
+2005,mx,es,Burundi,91
+2005,mx,es,Benin,91
+2005,mx,es,Burkina Faso,142
+2005,mx,es,Botswana,54
+2005,mx,es,Central African Republic,44
+2005,mx,es,Cote d'Ivoire,675
+2005,mx,es,Cameroon,204
+2005,mx,es,Republic of the Congo,262
+2005,mx,es,Eritrea,101
+2005,mx,es,Ethiopia,651
+2005,mx,es,Gabon,72
+2005,mx,es,Ghana,600
+2005,mx,es,Guinea,583
+2005,mx,es,Gambia,107
+2005,mx,es,Guinea-Bissau,75
+2005,mx,es,Kenya,132
+2005,mx,es,Liberia,165
+2005,mx,es,Lesotho,36
+2005,mx,es,Madagascar,162
+2005,mx,es,Mali,151
+2005,mx,es,Mozambique,170
+2005,mx,es,Mauritania,209
+2005,mx,es,Mauritius,5620
+2005,mx,es,Malawi,69
+2005,mx,es,Namibia,100
+2005,mx,es,Niger,187
+2005,mx,es,Nigeria,1260
+2005,mx,es,Rwanda,195
+2005,mx,es,Sudan,870
+2005,mx,es,Senegal,635
+2005,mx,es,Sierra Leone,118
+2005,mx,es,Somalia,183
+2005,mx,es,Chad,551
+2005,mx,es,Togo,133
+2005,mx,es,Tanzania,229
+2005,mx,es,Uganda,203
+2005,mx,es,South Africa,2060
+2005,mx,es,Democratic Republic of the Congo,144
+2005,mx,es,Zambia,137
+2005,mx,es,Zimbabwe,145
+2005,mx,es,Afghanistan,4320
+2005,mx,es,Bangladesh,513
+2005,mx,es,Bhutan,17
+2005,mx,es,India,5430
+2005,mx,es,Sri Lanka,1070
+2005,mx,es,Nepal,195
+2005,mx,es,Pakistan,2510
+2005,mx,es,Canada,6770
+2005,mx,es,United States,23905
+2005,mx,es,United Arab Emirates,563
+2005,mx,es,Algeria,1380
+2005,mx,es,Egypt,3360
+2005,mx,es,Iran,7460
+2005,mx,es,Iraq,15700
+2005,mx,es,Israel,8960
+2005,mx,es,Jordan,1450
+2005,mx,es,Kuwait,861
+2005,mx,es,Lebanon,2000
+2005,mx,es,Libya,533
+2005,mx,es,Morocco,3310
+2005,mx,es,Oman,75
+2005,mx,es,Qatar,1220
+2005,mx,es,Saudi Arabia,1030
+2005,mx,es,Syria,2950
+2005,mx,es,Tunisia,1120
+2005,mx,es,West Bank,2920
+2005,mx,es,Yemen,141
+2005,mx,es,Argentina,40700
+2005,mx,es,Bolivia,13700
+2005,mx,es,Brazil,26300
+2005,mx,es,Chile,25500
+2005,mx,es,Colombia,20200
+2005,mx,es,Costa Rica,7400
+2005,mx,es,Cuba,13300
+2005,mx,es,Dominican Republic,6870
+2005,mx,es,Ecuador,13400
+2005,mx,es,Guatemala,6440
+2005,mx,es,Honduras,4750
+2005,mx,es,Haiti,2920
+2005,mx,es,Jamaica,1480
+2005,mx,es,Mexico,35500
+2005,mx,es,Nicaragua,5680
+2005,mx,es,Panama,18100
+2005,mx,es,Peru,15400
+2005,mx,es,Puerto Rico,2680
+2005,mx,es,Paraguay,7210
+2005,mx,es,El Salvador,14600
+2005,mx,es,Uruguay,24200
+2005,mx,es,Venezuela,20300
+2005,mx,es,Albania,142
+2005,mx,es,Armenia,687
+2005,mx,es,Austria,2450
+2005,mx,es,Azerbaijan,28
+2005,mx,es,Belgium,3180
+2005,mx,es,Bulgaria,959
+2005,mx,es,Bosnia and Herzegovina,153
+2005,mx,es,Belarus,193
+2005,mx,es,Switzerland,5160
+2005,mx,es,Czech Republic,1840
+2005,mx,es,Germany,21300
+2005,mx,es,Denmark,1940
+2005,mx,es,Spain,52000
+2005,mx,es,Estonia,251
+2005,mx,es,Finland,1490
+2005,mx,es,France,20000
+2005,mx,es,United Kingdom,8330
+2005,mx,es,Georgia,1070
+2005,mx,es,Greece,2600
+2005,mx,es,Greenland,35
+2005,mx,es,Croatia,1720
+2005,mx,es,Hungary,1470
+2005,mx,es,Ireland,2220
+2005,mx,es,Italy,14500
+2005,mx,es,Kazakhstan,140
+2005,mx,es,Kyrgyzstan,47
+2005,mx,es,Lithuania,952
+2005,mx,es,Macedonia,137
+2005,mx,es,Netherlands,1850
+2005,mx,es,Norway,1970
+2005,mx,es,Poland,3410
+2005,mx,es,Portugal,4970
+2005,mx,es,Romania,1720
+2005,mx,es,Russia,8350
+2005,mx,es,Serbia,1700
+2005,mx,es,Slovakia,1560
+2005,mx,es,Slovenia,600
+2005,mx,es,Sweden,2990
+2005,mx,es,Tajikistan,60
+2005,mx,es,Turkmenistan,55
+2005,mx,es,Turkey,3380
+2005,mx,es,Ukraine,1800
+2005,mx,es,Uzbekistan,189
+2005,mx,es,Australia,6850
+2005,mx,es,China,17200
+2005,mx,es,Hong Kong,3070
+2005,mx,es,Indonesia,2960
+2005,mx,es,Japan,12000
+2005,mx,es,Cambodia,547
+2005,mx,es,South Korea,3070
+2005,mx,es,Laos,143
+2005,mx,es,Macau,131
+2005,mx,es,Myanmar,131
+2005,mx,es,Mongolia,142
+2005,mx,es,Malaysia,1310
+2005,mx,es,New Zealand,51
+2005,mx,es,Philippines,1160
+2005,mx,es,Papua New Guinea,31
+2005,mx,es,North Korea,1800
+2005,mx,es,Singapore,1740
+2005,mx,es,Thailand,2100
+2005,mx,es,Vietnam,1870
+2005,mx,es,Taiwan,935
+2005,mx,es,French Guiana,57
+2005,mx,es,South Sudan,139
+2005,pt,pt,Angola,3580
+2005,pt,pt,Burundi,31
+2005,pt,pt,Benin,39
+2005,pt,pt,Burkina Faso,34
+2005,pt,pt,Botswana,60
+2005,pt,pt,Central African Republic,69
+2005,pt,pt,Cote d'Ivoire,61
+2005,pt,pt,Cameroon,95
+2005,pt,pt,Republic of the Congo,86
+2005,pt,pt,Eritrea,14
+2005,pt,pt,Ethiopia,78
+2005,pt,pt,Gabon,79
+2005,pt,pt,Ghana,84
+2005,pt,pt,Guinea,538
+2005,pt,pt,Gambia,26
+2005,pt,pt,Guinea-Bissau,143
+2005,pt,pt,Kenya,104
+2005,pt,pt,Liberia,23
+2005,pt,pt,Lesotho,11
+2005,pt,pt,Madagascar,28
+2005,pt,pt,Mali,62
+2005,pt,pt,Mozambique,566
+2005,pt,pt,Mauritania,47
+2005,pt,pt,Mauritius,970
+2005,pt,pt,Malawi,38
+2005,pt,pt,Namibia,123
+2005,pt,pt,Niger,51
+2005,pt,pt,Nigeria,518
+2005,pt,pt,Rwanda,44
+2005,pt,pt,Sudan,94
+2005,pt,pt,Senegal,121
+2005,pt,pt,Sierra Leone,35
+2005,pt,pt,Somalia,80
+2005,pt,pt,Chad,8
+2005,pt,pt,Togo,66
+2005,pt,pt,Tanzania,77
+2005,pt,pt,Uganda,59
+2005,pt,pt,South Africa,1380
+2005,pt,pt,Democratic Republic of the Congo,62
+2005,pt,pt,Zambia,107
+2005,pt,pt,Zimbabwe,87
+2005,pt,pt,Afghanistan,524
+2005,pt,pt,Bangladesh,32
+2005,pt,pt,Bhutan,3
+2005,pt,pt,India,1050
+2005,pt,pt,Sri Lanka,59
+2005,pt,pt,Nepal,15
+2005,pt,pt,Pakistan,119
+2005,pt,pt,Canada,862
+2005,pt,pt,United States,4691
+2005,pt,pt,United Arab Emirates,63
+2005,pt,pt,Algeria,146
+2005,pt,pt,Egypt,153
+2005,pt,pt,Iran,1660
+2005,pt,pt,Iraq,2450
+2005,pt,pt,Israel,1680
+2005,pt,pt,Jordan,42
+2005,pt,pt,Kuwait,66
+2005,pt,pt,Lebanon,133
+2005,pt,pt,Libya,78
+2005,pt,pt,Morocco,118
+2005,pt,pt,Oman,2
+2005,pt,pt,Qatar,79
+2005,pt,pt,Saudi Arabia,154
+2005,pt,pt,Syria,515
+2005,pt,pt,Tunisia,104
+2005,pt,pt,West Bank,353
+2005,pt,pt,Yemen,40
+2005,pt,pt,Argentina,2700
+2005,pt,pt,Bolivia,1030
+2005,pt,pt,Brazil,25800
+2005,pt,pt,Chile,1190
+2005,pt,pt,Colombia,979
+2005,pt,pt,Costa Rica,114
+2005,pt,pt,Cuba,822
+2005,pt,pt,Dominican Republic,71
+2005,pt,pt,Ecuador,578
+2005,pt,pt,Guatemala,87
+2005,pt,pt,Honduras,75
+2005,pt,pt,Haiti,112
+2005,pt,pt,Jamaica,47
+2005,pt,pt,Mexico,1750
+2005,pt,pt,Nicaragua,63
+2005,pt,pt,Panama,74
+2005,pt,pt,Peru,709
+2005,pt,pt,Puerto Rico,67
+2005,pt,pt,Paraguay,1160
+2005,pt,pt,El Salvador,65
+2005,pt,pt,Uruguay,1080
+2005,pt,pt,Venezuela,1250
+2005,pt,pt,Albania,27
+2005,pt,pt,Armenia,26
+2005,pt,pt,Austria,132
+2005,pt,pt,Azerbaijan,13
+2005,pt,pt,Belgium,167
+2005,pt,pt,Bulgaria,83
+2005,pt,pt,Bosnia and Herzegovina,21
+2005,pt,pt,Belarus,8
+2005,pt,pt,Switzerland,889
+2005,pt,pt,Czech Republic,65
+2005,pt,pt,Germany,3080
+2005,pt,pt,Denmark,108
+2005,pt,pt,Spain,2250
+2005,pt,pt,Estonia,34
+2005,pt,pt,Finland,84
+2005,pt,pt,France,3190
+2005,pt,pt,United Kingdom,1190
+2005,pt,pt,Georgia,78
+2005,pt,pt,Greece,542
+2005,pt,pt,Greenland,7
+2005,pt,pt,Croatia,106
+2005,pt,pt,Hungary,87
+2005,pt,pt,Ireland,117
+2005,pt,pt,Italy,1960
+2005,pt,pt,Kazakhstan,36
+2005,pt,pt,Kyrgyzstan,14
+2005,pt,pt,Lithuania,51
+2005,pt,pt,Macedonia,26
+2005,pt,pt,Netherlands,866
+2005,pt,pt,Norway,131
+2005,pt,pt,Poland,538
+2005,pt,pt,Portugal,3940
+2005,pt,pt,Romania,115
+2005,pt,pt,Russia,1650
+2005,pt,pt,Serbia,109
+2005,pt,pt,Slovakia,86
+2005,pt,pt,Slovenia,44
+2005,pt,pt,Sweden,165
+2005,pt,pt,Tajikistan,8
+2005,pt,pt,Turkmenistan,6
+2005,pt,pt,Turkey,537
+2005,pt,pt,Ukraine,137
+2005,pt,pt,Uzbekistan,26
+2005,pt,pt,Australia,986
+2005,pt,pt,China,2380
+2005,pt,pt,Hong Kong,560
+2005,pt,pt,Indonesia,145
+2005,pt,pt,Japan,2400
+2005,pt,pt,Cambodia,43
+2005,pt,pt,South Korea,688
+2005,pt,pt,Laos,14
+2005,pt,pt,Macau,55
+2005,pt,pt,Myanmar,16
+2005,pt,pt,Mongolia,31
+2005,pt,pt,Malaysia,78
+2005,pt,pt,New Zealand,93
+2005,pt,pt,Philippines,66
+2005,pt,pt,Papua New Guinea,13
+2005,pt,pt,North Korea,133
+2005,pt,pt,Singapore,77
+2005,pt,pt,Thailand,112
+2005,pt,pt,Vietnam,89
+2005,pt,pt,Taiwan,85
+2005,pt,pt,French Guiana,20
+2005,pt,pt,South Sudan,51
+2005,in,hi,Angola,0
+2005,in,hi,Burundi,0
+2005,in,hi,Benin,0
+2005,in,hi,Burkina Faso,0
+2005,in,hi,Botswana,0
+2005,in,hi,Central African Republic,0
+2005,in,hi,Cote d'Ivoire,0
+2005,in,hi,Cameroon,0
+2005,in,hi,Republic of the Congo,0
+2005,in,hi,Eritrea,0
+2005,in,hi,Ethiopia,0
+2005,in,hi,Gabon,0
+2005,in,hi,Ghana,0
+2005,in,hi,Guinea,0
+2005,in,hi,Gambia,0
+2005,in,hi,Guinea-Bissau,0
+2005,in,hi,Kenya,0
+2005,in,hi,Liberia,0
+2005,in,hi,Lesotho,0
+2005,in,hi,Madagascar,0
+2005,in,hi,Mali,0
+2005,in,hi,Mozambique,0
+2005,in,hi,Mauritania,0
+2005,in,hi,Mauritius,0
+2005,in,hi,Malawi,0
+2005,in,hi,Namibia,0
+2005,in,hi,Niger,0
+2005,in,hi,Nigeria,0
+2005,in,hi,Rwanda,0
+2005,in,hi,Sudan,0
+2005,in,hi,Senegal,0
+2005,in,hi,Sierra Leone,0
+2005,in,hi,Somalia,0
+2005,in,hi,Chad,0
+2005,in,hi,Togo,0
+2005,in,hi,Tanzania,0
+2005,in,hi,Uganda,0
+2005,in,hi,South Africa,0
+2005,in,hi,Democratic Republic of the Congo,0
+2005,in,hi,Zambia,0
+2005,in,hi,Zimbabwe,0
+2005,in,hi,Afghanistan,0
+2005,in,hi,Bangladesh,0
+2005,in,hi,Bhutan,0
+2005,in,hi,India,0
+2005,in,hi,Sri Lanka,0
+2005,in,hi,Nepal,0
+2005,in,hi,Pakistan,0
+2005,in,hi,Canada,0
+2005,in,hi,United States,0
+2005,in,hi,United Arab Emirates,0
+2005,in,hi,Algeria,0
+2005,in,hi,Egypt,0
+2005,in,hi,Iran,0
+2005,in,hi,Iraq,0
+2005,in,hi,Israel,0
+2005,in,hi,Jordan,0
+2005,in,hi,Kuwait,0
+2005,in,hi,Lebanon,0
+2005,in,hi,Libya,0
+2005,in,hi,Morocco,0
+2005,in,hi,Oman,0
+2005,in,hi,Qatar,0
+2005,in,hi,Saudi Arabia,0
+2005,in,hi,Syria,0
+2005,in,hi,Tunisia,0
+2005,in,hi,West Bank,0
+2005,in,hi,Yemen,0
+2005,in,hi,Argentina,0
+2005,in,hi,Bolivia,0
+2005,in,hi,Brazil,0
+2005,in,hi,Chile,0
+2005,in,hi,Colombia,0
+2005,in,hi,Costa Rica,0
+2005,in,hi,Cuba,0
+2005,in,hi,Dominican Republic,0
+2005,in,hi,Ecuador,0
+2005,in,hi,Guatemala,0
+2005,in,hi,Honduras,0
+2005,in,hi,Haiti,0
+2005,in,hi,Jamaica,0
+2005,in,hi,Mexico,0
+2005,in,hi,Nicaragua,0
+2005,in,hi,Panama,0
+2005,in,hi,Peru,0
+2005,in,hi,Puerto Rico,0
+2005,in,hi,Paraguay,0
+2005,in,hi,El Salvador,0
+2005,in,hi,Uruguay,0
+2005,in,hi,Venezuela,0
+2005,in,hi,Albania,0
+2005,in,hi,Armenia,0
+2005,in,hi,Austria,0
+2005,in,hi,Azerbaijan,0
+2005,in,hi,Belgium,0
+2005,in,hi,Bulgaria,0
+2005,in,hi,Bosnia and Herzegovina,0
+2005,in,hi,Belarus,0
+2005,in,hi,Switzerland,0
+2005,in,hi,Czech Republic,0
+2005,in,hi,Germany,0
+2005,in,hi,Denmark,0
+2005,in,hi,Spain,0
+2005,in,hi,Estonia,0
+2005,in,hi,Finland,0
+2005,in,hi,France,0
+2005,in,hi,United Kingdom,0
+2005,in,hi,Georgia,0
+2005,in,hi,Greece,0
+2005,in,hi,Greenland,0
+2005,in,hi,Croatia,0
+2005,in,hi,Hungary,0
+2005,in,hi,Ireland,0
+2005,in,hi,Italy,0
+2005,in,hi,Kazakhstan,0
+2005,in,hi,Kyrgyzstan,0
+2005,in,hi,Lithuania,0
+2005,in,hi,Macedonia,0
+2005,in,hi,Netherlands,0
+2005,in,hi,Norway,0
+2005,in,hi,Poland,0
+2005,in,hi,Portugal,0
+2005,in,hi,Romania,0
+2005,in,hi,Russia,0
+2005,in,hi,Serbia,0
+2005,in,hi,Slovakia,0
+2005,in,hi,Slovenia,0
+2005,in,hi,Sweden,0
+2005,in,hi,Tajikistan,0
+2005,in,hi,Turkmenistan,0
+2005,in,hi,Turkey,0
+2005,in,hi,Ukraine,0
+2005,in,hi,Uzbekistan,0
+2005,in,hi,Australia,0
+2005,in,hi,China,0
+2005,in,hi,Hong Kong,0
+2005,in,hi,Indonesia,0
+2005,in,hi,Japan,0
+2005,in,hi,Cambodia,0
+2005,in,hi,South Korea,0
+2005,in,hi,Laos,0
+2005,in,hi,Macau,0
+2005,in,hi,Myanmar,0
+2005,in,hi,Mongolia,0
+2005,in,hi,Malaysia,0
+2005,in,hi,New Zealand,0
+2005,in,hi,Philippines,0
+2005,in,hi,Papua New Guinea,0
+2005,in,hi,North Korea,0
+2005,in,hi,Singapore,0
+2005,in,hi,Thailand,0
+2005,in,hi,Vietnam,0
+2005,in,hi,Taiwan,0
+2005,in,hi,French Guiana,0
+2005,in,hi,South Sudan,0
+2005,sa,ar,Angola,0
+2005,sa,ar,Burundi,0
+2005,sa,ar,Benin,0
+2005,sa,ar,Burkina Faso,0
+2005,sa,ar,Botswana,0
+2005,sa,ar,Central African Republic,0
+2005,sa,ar,Cote d'Ivoire,0
+2005,sa,ar,Cameroon,0
+2005,sa,ar,Republic of the Congo,0
+2005,sa,ar,Eritrea,0
+2005,sa,ar,Ethiopia,0
+2005,sa,ar,Gabon,0
+2005,sa,ar,Ghana,0
+2005,sa,ar,Guinea,0
+2005,sa,ar,Gambia,0
+2005,sa,ar,Guinea-Bissau,0
+2005,sa,ar,Kenya,0
+2005,sa,ar,Liberia,0
+2005,sa,ar,Lesotho,0
+2005,sa,ar,Madagascar,0
+2005,sa,ar,Mali,0
+2005,sa,ar,Mozambique,0
+2005,sa,ar,Mauritania,0
+2005,sa,ar,Mauritius,0
+2005,sa,ar,Malawi,0
+2005,sa,ar,Namibia,0
+2005,sa,ar,Niger,0
+2005,sa,ar,Nigeria,0
+2005,sa,ar,Rwanda,0
+2005,sa,ar,Sudan,0
+2005,sa,ar,Senegal,0
+2005,sa,ar,Sierra Leone,0
+2005,sa,ar,Somalia,0
+2005,sa,ar,Chad,0
+2005,sa,ar,Togo,0
+2005,sa,ar,Tanzania,0
+2005,sa,ar,Uganda,0
+2005,sa,ar,South Africa,0
+2005,sa,ar,Democratic Republic of the Congo,0
+2005,sa,ar,Zambia,0
+2005,sa,ar,Zimbabwe,0
+2005,sa,ar,Afghanistan,0
+2005,sa,ar,Bangladesh,0
+2005,sa,ar,Bhutan,0
+2005,sa,ar,India,0
+2005,sa,ar,Sri Lanka,0
+2005,sa,ar,Nepal,0
+2005,sa,ar,Pakistan,0
+2005,sa,ar,Canada,0
+2005,sa,ar,United States,0
+2005,sa,ar,United Arab Emirates,0
+2005,sa,ar,Algeria,0
+2005,sa,ar,Egypt,0
+2005,sa,ar,Iran,0
+2005,sa,ar,Iraq,0
+2005,sa,ar,Israel,0
+2005,sa,ar,Jordan,0
+2005,sa,ar,Kuwait,0
+2005,sa,ar,Lebanon,0
+2005,sa,ar,Libya,0
+2005,sa,ar,Morocco,0
+2005,sa,ar,Oman,0
+2005,sa,ar,Qatar,0
+2005,sa,ar,Saudi Arabia,0
+2005,sa,ar,Syria,0
+2005,sa,ar,Tunisia,0
+2005,sa,ar,West Bank,0
+2005,sa,ar,Yemen,0
+2005,sa,ar,Argentina,0
+2005,sa,ar,Bolivia,0
+2005,sa,ar,Brazil,0
+2005,sa,ar,Chile,0
+2005,sa,ar,Colombia,0
+2005,sa,ar,Costa Rica,0
+2005,sa,ar,Cuba,0
+2005,sa,ar,Dominican Republic,0
+2005,sa,ar,Ecuador,0
+2005,sa,ar,Guatemala,0
+2005,sa,ar,Honduras,0
+2005,sa,ar,Haiti,0
+2005,sa,ar,Jamaica,0
+2005,sa,ar,Mexico,0
+2005,sa,ar,Nicaragua,0
+2005,sa,ar,Panama,0
+2005,sa,ar,Peru,0
+2005,sa,ar,Puerto Rico,0
+2005,sa,ar,Paraguay,0
+2005,sa,ar,El Salvador,0
+2005,sa,ar,Uruguay,0
+2005,sa,ar,Venezuela,0
+2005,sa,ar,Albania,0
+2005,sa,ar,Armenia,0
+2005,sa,ar,Austria,0
+2005,sa,ar,Azerbaijan,0
+2005,sa,ar,Belgium,0
+2005,sa,ar,Bulgaria,0
+2005,sa,ar,Bosnia and Herzegovina,0
+2005,sa,ar,Belarus,0
+2005,sa,ar,Switzerland,0
+2005,sa,ar,Czech Republic,0
+2005,sa,ar,Germany,0
+2005,sa,ar,Denmark,0
+2005,sa,ar,Spain,0
+2005,sa,ar,Estonia,0
+2005,sa,ar,Finland,0
+2005,sa,ar,France,0
+2005,sa,ar,United Kingdom,0
+2005,sa,ar,Georgia,0
+2005,sa,ar,Greece,0
+2005,sa,ar,Greenland,0
+2005,sa,ar,Croatia,0
+2005,sa,ar,Hungary,0
+2005,sa,ar,Ireland,0
+2005,sa,ar,Italy,0
+2005,sa,ar,Kazakhstan,0
+2005,sa,ar,Kyrgyzstan,0
+2005,sa,ar,Lithuania,0
+2005,sa,ar,Macedonia,0
+2005,sa,ar,Netherlands,0
+2005,sa,ar,Norway,0
+2005,sa,ar,Poland,0
+2005,sa,ar,Portugal,0
+2005,sa,ar,Romania,0
+2005,sa,ar,Russia,0
+2005,sa,ar,Serbia,0
+2005,sa,ar,Slovakia,0
+2005,sa,ar,Slovenia,0
+2005,sa,ar,Sweden,0
+2005,sa,ar,Tajikistan,0
+2005,sa,ar,Turkmenistan,0
+2005,sa,ar,Turkey,0
+2005,sa,ar,Ukraine,0
+2005,sa,ar,Uzbekistan,0
+2005,sa,ar,Australia,0
+2005,sa,ar,China,0
+2005,sa,ar,Hong Kong,0
+2005,sa,ar,Indonesia,0
+2005,sa,ar,Japan,0
+2005,sa,ar,Cambodia,0
+2005,sa,ar,South Korea,0
+2005,sa,ar,Laos,0
+2005,sa,ar,Macau,0
+2005,sa,ar,Myanmar,0
+2005,sa,ar,Mongolia,0
+2005,sa,ar,Malaysia,0
+2005,sa,ar,New Zealand,0
+2005,sa,ar,Philippines,0
+2005,sa,ar,Papua New Guinea,0
+2005,sa,ar,North Korea,0
+2005,sa,ar,Singapore,0
+2005,sa,ar,Thailand,0
+2005,sa,ar,Vietnam,0
+2005,sa,ar,Taiwan,0
+2005,sa,ar,French Guiana,0
+2005,sa,ar,South Sudan,0
+2005,de,de,Angola,15500
+2005,de,de,Burundi,2290
+2005,de,de,Benin,3220
+2005,de,de,Burkina Faso,8310
+2005,de,de,Botswana,8520
+2005,de,de,Central African Republic,1230
+2005,de,de,Cote d'Ivoire,7145
+2005,de,de,Cameroon,5960
+2005,de,de,Republic of the Congo,2302
+2005,de,de,Eritrea,3140
+2005,de,de,Ethiopia,6790
+2005,de,de,Gabon,1630
+2005,de,de,Ghana,20700
+2005,de,de,Guinea,12500
+2005,de,de,Gambia,2120
+2005,de,de,Guinea-Bissau,4760
+2005,de,de,Kenya,14700
+2005,de,de,Liberia,4820
+2005,de,de,Lesotho,739
+2005,de,de,Madagascar,2900
+2005,de,de,Mali,39400
+2005,de,de,Mozambique,2430
+2005,de,de,Mauritania,2040
+2005,de,de,Mauritius,3590
+2005,de,de,Malawi,6380
+2005,de,de,Namibia,8490
+2005,de,de,Niger,8290
+2005,de,de,Nigeria,39000
+2005,de,de,Rwanda,4390
+2005,de,de,Sudan,22200
+2005,de,de,Senegal,15600
+2005,de,de,Sierra Leone,4400
+2005,de,de,Somalia,21700
+2005,de,de,Chad,3030
+2005,de,de,Togo,4720
+2005,de,de,Tanzania,4030
+2005,de,de,Uganda,11600
+2005,de,de,South Africa,63500
+2005,de,de,Democratic Republic of the Congo,2538
+2005,de,de,Zambia,2130
+2005,de,de,Zimbabwe,6260
+2005,de,de,Afghanistan,162000
+2005,de,de,Bangladesh,4460
+2005,de,de,Bhutan,1640
+2005,de,de,India,72500
+2005,de,de,Sri Lanka,19600
+2005,de,de,Nepal,8520
+2005,de,de,Pakistan,86300
+2005,de,de,Canada,71100
+2005,de,de,United States,582850
+2005,de,de,United Arab Emirates,1403
+2005,de,de,Algeria,10900
+2005,de,de,Egypt,50400
+2005,de,de,Iran,127000
+2005,de,de,Iraq,104000
+2005,de,de,Israel,139000
+2005,de,de,Jordan,63400
+2005,de,de,Kuwait,13600
+2005,de,de,Lebanon,20900
+2005,de,de,Libya,47700
+2005,de,de,Morocco,11200
+2005,de,de,Oman,11500
+2005,de,de,Qatar,22500
+2005,de,de,Saudi Arabia,23500
+2005,de,de,Syria,50600
+2005,de,de,Tunisia,21000
+2005,de,de,West Bank,17630
+2005,de,de,Yemen,14900
+2005,de,de,Argentina,35200
+2005,de,de,Bolivia,5370
+2005,de,de,Brazil,73000
+2005,de,de,Chile,61800
+2005,de,de,Colombia,14900
+2005,de,de,Costa Rica,15800
+2005,de,de,Cuba,22400
+2005,de,de,Dominican Republic,5440
+2005,de,de,Ecuador,24700
+2005,de,de,Guatemala,14700
+2005,de,de,Honduras,14700
+2005,de,de,Haiti,19000
+2005,de,de,Jamaica,10600
+2005,de,de,Mexico,54900
+2005,de,de,Nicaragua,11000
+2005,de,de,Panama,18800
+2005,de,de,Peru,54700
+2005,de,de,Puerto Rico,13000
+2005,de,de,Paraguay,14900
+2005,de,de,El Salvador,21700
+2005,de,de,Uruguay,24600
+2005,de,de,Venezuela,55400
+2005,de,de,Albania,5590
+2005,de,de,Armenia,4940
+2005,de,de,Austria,201000
+2005,de,de,Azerbaijan,11700
+2005,de,de,Belgium,57100
+2005,de,de,Bulgaria,22200
+2005,de,de,Bosnia and Herzegovina,7890
+2005,de,de,Belarus,5320
+2005,de,de,Switzerland,225000
+2005,de,de,Czech Republic,7320
+2005,de,de,Germany,969000
+2005,de,de,Denmark,46300
+2005,de,de,Spain,133000
+2005,de,de,Estonia,10800
+2005,de,de,Finland,37900
+2005,de,de,France,228000
+2005,de,de,United Kingdom,50870
+2005,de,de,Georgia,47600
+2005,de,de,Greece,107000
+2005,de,de,Greenland,2800
+2005,de,de,Croatia,28800
+2005,de,de,Hungary,51400
+2005,de,de,Ireland,43800
+2005,de,de,Italy,163000
+2005,de,de,Kazakhstan,15200
+2005,de,de,Kyrgyzstan,307
+2005,de,de,Lithuania,12700
+2005,de,de,Macedonia,7830
+2005,de,de,Netherlands,42300
+2005,de,de,Norway,44900
+2005,de,de,Poland,88100
+2005,de,de,Portugal,107000
+2005,de,de,Romania,34400
+2005,de,de,Russia,175000
+2005,de,de,Serbia,35700
+2005,de,de,Slovakia,28300
+2005,de,de,Slovenia,22300
+2005,de,de,Sweden,74700
+2005,de,de,Tajikistan,1760
+2005,de,de,Turkmenistan,4340
+2005,de,de,Turkey,93200
+2005,de,de,Ukraine,62400
+2005,de,de,Uzbekistan,4770
+2005,de,de,Australia,76600
+2005,de,de,China,242000
+2005,de,de,Hong Kong,68100
+2005,de,de,Indonesia,18400
+2005,de,de,Japan,192000
+2005,de,de,Cambodia,4390
+2005,de,de,South Korea,40400
+2005,de,de,Laos,5730
+2005,de,de,Macau,2805
+2005,de,de,Myanmar,10100
+2005,de,de,Mongolia,3190
+2005,de,de,Malaysia,41600
+2005,de,de,New Zealand,22700
+2005,de,de,Philippines,10500
+2005,de,de,Papua New Guinea,1750
+2005,de,de,North Korea,25200
+2005,de,de,Singapore,32800
+2005,de,de,Thailand,42700
+2005,de,de,Vietnam,43400
+2005,de,de,Taiwan,48700
+2005,de,de,French Guiana,787
+2005,de,de,South Sudan,4290
+2005,jp,ja,Angola,0
+2005,jp,ja,Burundi,0
+2005,jp,ja,Benin,0
+2005,jp,ja,Burkina Faso,0
+2005,jp,ja,Botswana,0
+2005,jp,ja,Central African Republic,0
+2005,jp,ja,Cote d'Ivoire,0
+2005,jp,ja,Cameroon,0
+2005,jp,ja,Republic of the Congo,0
+2005,jp,ja,Eritrea,0
+2005,jp,ja,Ethiopia,0
+2005,jp,ja,Gabon,0
+2005,jp,ja,Ghana,0
+2005,jp,ja,Guinea,0
+2005,jp,ja,Gambia,0
+2005,jp,ja,Guinea-Bissau,0
+2005,jp,ja,Kenya,0
+2005,jp,ja,Liberia,0
+2005,jp,ja,Lesotho,0
+2005,jp,ja,Madagascar,0
+2005,jp,ja,Mali,0
+2005,jp,ja,Mozambique,0
+2005,jp,ja,Mauritania,0
+2005,jp,ja,Mauritius,0
+2005,jp,ja,Malawi,0
+2005,jp,ja,Namibia,0
+2005,jp,ja,Niger,0
+2005,jp,ja,Nigeria,0
+2005,jp,ja,Rwanda,0
+2005,jp,ja,Sudan,0
+2005,jp,ja,Senegal,0
+2005,jp,ja,Sierra Leone,0
+2005,jp,ja,Somalia,0
+2005,jp,ja,Chad,0
+2005,jp,ja,Togo,0
+2005,jp,ja,Tanzania,0
+2005,jp,ja,Uganda,0
+2005,jp,ja,South Africa,0
+2005,jp,ja,Democratic Republic of the Congo,0
+2005,jp,ja,Zambia,0
+2005,jp,ja,Zimbabwe,0
+2005,jp,ja,Afghanistan,0
+2005,jp,ja,Bangladesh,0
+2005,jp,ja,Bhutan,0
+2005,jp,ja,India,0
+2005,jp,ja,Sri Lanka,0
+2005,jp,ja,Nepal,0
+2005,jp,ja,Pakistan,0
+2005,jp,ja,Canada,0
+2005,jp,ja,United States,0
+2005,jp,ja,United Arab Emirates,0
+2005,jp,ja,Algeria,0
+2005,jp,ja,Egypt,0
+2005,jp,ja,Iran,0
+2005,jp,ja,Iraq,0
+2005,jp,ja,Israel,0
+2005,jp,ja,Jordan,0
+2005,jp,ja,Kuwait,0
+2005,jp,ja,Lebanon,0
+2005,jp,ja,Libya,0
+2005,jp,ja,Morocco,0
+2005,jp,ja,Oman,0
+2005,jp,ja,Qatar,0
+2005,jp,ja,Saudi Arabia,0
+2005,jp,ja,Syria,0
+2005,jp,ja,Tunisia,0
+2005,jp,ja,West Bank,0
+2005,jp,ja,Yemen,0
+2005,jp,ja,Argentina,0
+2005,jp,ja,Bolivia,0
+2005,jp,ja,Brazil,0
+2005,jp,ja,Chile,0
+2005,jp,ja,Colombia,0
+2005,jp,ja,Costa Rica,0
+2005,jp,ja,Cuba,0
+2005,jp,ja,Dominican Republic,0
+2005,jp,ja,Ecuador,0
+2005,jp,ja,Guatemala,0
+2005,jp,ja,Honduras,0
+2005,jp,ja,Haiti,0
+2005,jp,ja,Jamaica,0
+2005,jp,ja,Mexico,0
+2005,jp,ja,Nicaragua,0
+2005,jp,ja,Panama,0
+2005,jp,ja,Peru,0
+2005,jp,ja,Puerto Rico,0
+2005,jp,ja,Paraguay,0
+2005,jp,ja,El Salvador,0
+2005,jp,ja,Uruguay,0
+2005,jp,ja,Venezuela,0
+2005,jp,ja,Albania,0
+2005,jp,ja,Armenia,0
+2005,jp,ja,Austria,0
+2005,jp,ja,Azerbaijan,0
+2005,jp,ja,Belgium,0
+2005,jp,ja,Bulgaria,0
+2005,jp,ja,Bosnia and Herzegovina,0
+2005,jp,ja,Belarus,0
+2005,jp,ja,Switzerland,0
+2005,jp,ja,Czech Republic,0
+2005,jp,ja,Germany,0
+2005,jp,ja,Denmark,0
+2005,jp,ja,Spain,0
+2005,jp,ja,Estonia,0
+2005,jp,ja,Finland,0
+2005,jp,ja,France,0
+2005,jp,ja,United Kingdom,0
+2005,jp,ja,Georgia,0
+2005,jp,ja,Greece,0
+2005,jp,ja,Greenland,0
+2005,jp,ja,Croatia,0
+2005,jp,ja,Hungary,0
+2005,jp,ja,Ireland,0
+2005,jp,ja,Italy,0
+2005,jp,ja,Kazakhstan,0
+2005,jp,ja,Kyrgyzstan,0
+2005,jp,ja,Lithuania,0
+2005,jp,ja,Macedonia,0
+2005,jp,ja,Netherlands,0
+2005,jp,ja,Norway,0
+2005,jp,ja,Poland,0
+2005,jp,ja,Portugal,0
+2005,jp,ja,Romania,0
+2005,jp,ja,Russia,0
+2005,jp,ja,Serbia,0
+2005,jp,ja,Slovakia,0
+2005,jp,ja,Slovenia,0
+2005,jp,ja,Sweden,0
+2005,jp,ja,Tajikistan,0
+2005,jp,ja,Turkmenistan,0
+2005,jp,ja,Turkey,0
+2005,jp,ja,Ukraine,0
+2005,jp,ja,Uzbekistan,0
+2005,jp,ja,Australia,0
+2005,jp,ja,China,0
+2005,jp,ja,Hong Kong,0
+2005,jp,ja,Indonesia,0
+2005,jp,ja,Japan,0
+2005,jp,ja,Cambodia,0
+2005,jp,ja,South Korea,0
+2005,jp,ja,Laos,0
+2005,jp,ja,Macau,0
+2005,jp,ja,Myanmar,0
+2005,jp,ja,Mongolia,0
+2005,jp,ja,Malaysia,0
+2005,jp,ja,New Zealand,0
+2005,jp,ja,Philippines,0
+2005,jp,ja,Papua New Guinea,0
+2005,jp,ja,North Korea,0
+2005,jp,ja,Singapore,0
+2005,jp,ja,Thailand,0
+2005,jp,ja,Vietnam,0
+2005,jp,ja,Taiwan,0
+2005,jp,ja,French Guiana,0
+2005,jp,ja,South Sudan,0
+2005,vn,vi,Angola,0
+2005,vn,vi,Burundi,0
+2005,vn,vi,Benin,0
+2005,vn,vi,Burkina Faso,0
+2005,vn,vi,Botswana,0
+2005,vn,vi,Central African Republic,0
+2005,vn,vi,Cote d'Ivoire,0
+2005,vn,vi,Cameroon,0
+2005,vn,vi,Republic of the Congo,0
+2005,vn,vi,Eritrea,0
+2005,vn,vi,Ethiopia,0
+2005,vn,vi,Gabon,0
+2005,vn,vi,Ghana,0
+2005,vn,vi,Guinea,0
+2005,vn,vi,Gambia,0
+2005,vn,vi,Guinea-Bissau,0
+2005,vn,vi,Kenya,0
+2005,vn,vi,Liberia,0
+2005,vn,vi,Lesotho,0
+2005,vn,vi,Madagascar,0
+2005,vn,vi,Mali,0
+2005,vn,vi,Mozambique,0
+2005,vn,vi,Mauritania,0
+2005,vn,vi,Mauritius,0
+2005,vn,vi,Malawi,0
+2005,vn,vi,Namibia,0
+2005,vn,vi,Niger,0
+2005,vn,vi,Nigeria,0
+2005,vn,vi,Rwanda,0
+2005,vn,vi,Sudan,0
+2005,vn,vi,Senegal,0
+2005,vn,vi,Sierra Leone,0
+2005,vn,vi,Somalia,0
+2005,vn,vi,Chad,0
+2005,vn,vi,Togo,0
+2005,vn,vi,Tanzania,0
+2005,vn,vi,Uganda,0
+2005,vn,vi,South Africa,0
+2005,vn,vi,Democratic Republic of the Congo,0
+2005,vn,vi,Zambia,0
+2005,vn,vi,Zimbabwe,0
+2005,vn,vi,Afghanistan,0
+2005,vn,vi,Bangladesh,0
+2005,vn,vi,Bhutan,0
+2005,vn,vi,India,0
+2005,vn,vi,Sri Lanka,0
+2005,vn,vi,Nepal,0
+2005,vn,vi,Pakistan,0
+2005,vn,vi,Canada,0
+2005,vn,vi,United States,0
+2005,vn,vi,United Arab Emirates,0
+2005,vn,vi,Algeria,0
+2005,vn,vi,Egypt,0
+2005,vn,vi,Iran,0
+2005,vn,vi,Iraq,0
+2005,vn,vi,Israel,0
+2005,vn,vi,Jordan,0
+2005,vn,vi,Kuwait,0
+2005,vn,vi,Lebanon,0
+2005,vn,vi,Libya,0
+2005,vn,vi,Morocco,0
+2005,vn,vi,Oman,0
+2005,vn,vi,Qatar,0
+2005,vn,vi,Saudi Arabia,0
+2005,vn,vi,Syria,0
+2005,vn,vi,Tunisia,0
+2005,vn,vi,West Bank,0
+2005,vn,vi,Yemen,0
+2005,vn,vi,Argentina,0
+2005,vn,vi,Bolivia,0
+2005,vn,vi,Brazil,0
+2005,vn,vi,Chile,0
+2005,vn,vi,Colombia,0
+2005,vn,vi,Costa Rica,0
+2005,vn,vi,Cuba,0
+2005,vn,vi,Dominican Republic,0
+2005,vn,vi,Ecuador,0
+2005,vn,vi,Guatemala,0
+2005,vn,vi,Honduras,0
+2005,vn,vi,Haiti,0
+2005,vn,vi,Jamaica,0
+2005,vn,vi,Mexico,0
+2005,vn,vi,Nicaragua,0
+2005,vn,vi,Panama,0
+2005,vn,vi,Peru,0
+2005,vn,vi,Puerto Rico,0
+2005,vn,vi,Paraguay,0
+2005,vn,vi,El Salvador,0
+2005,vn,vi,Uruguay,0
+2005,vn,vi,Venezuela,0
+2005,vn,vi,Albania,0
+2005,vn,vi,Armenia,0
+2005,vn,vi,Austria,0
+2005,vn,vi,Azerbaijan,0
+2005,vn,vi,Belgium,0
+2005,vn,vi,Bulgaria,0
+2005,vn,vi,Bosnia and Herzegovina,0
+2005,vn,vi,Belarus,0
+2005,vn,vi,Switzerland,0
+2005,vn,vi,Czech Republic,0
+2005,vn,vi,Germany,0
+2005,vn,vi,Denmark,0
+2005,vn,vi,Spain,0
+2005,vn,vi,Estonia,0
+2005,vn,vi,Finland,0
+2005,vn,vi,France,0
+2005,vn,vi,United Kingdom,0
+2005,vn,vi,Georgia,0
+2005,vn,vi,Greece,0
+2005,vn,vi,Greenland,0
+2005,vn,vi,Croatia,0
+2005,vn,vi,Hungary,0
+2005,vn,vi,Ireland,0
+2005,vn,vi,Italy,0
+2005,vn,vi,Kazakhstan,0
+2005,vn,vi,Kyrgyzstan,0
+2005,vn,vi,Lithuania,0
+2005,vn,vi,Macedonia,0
+2005,vn,vi,Netherlands,0
+2005,vn,vi,Norway,0
+2005,vn,vi,Poland,0
+2005,vn,vi,Portugal,0
+2005,vn,vi,Romania,0
+2005,vn,vi,Russia,0
+2005,vn,vi,Serbia,0
+2005,vn,vi,Slovakia,0
+2005,vn,vi,Slovenia,0
+2005,vn,vi,Sweden,0
+2005,vn,vi,Tajikistan,0
+2005,vn,vi,Turkmenistan,0
+2005,vn,vi,Turkey,0
+2005,vn,vi,Ukraine,0
+2005,vn,vi,Uzbekistan,0
+2005,vn,vi,Australia,0
+2005,vn,vi,China,0
+2005,vn,vi,Hong Kong,0
+2005,vn,vi,Indonesia,0
+2005,vn,vi,Japan,0
+2005,vn,vi,Cambodia,0
+2005,vn,vi,South Korea,0
+2005,vn,vi,Laos,0
+2005,vn,vi,Macau,0
+2005,vn,vi,Myanmar,0
+2005,vn,vi,Mongolia,0
+2005,vn,vi,Malaysia,0
+2005,vn,vi,New Zealand,0
+2005,vn,vi,Philippines,0
+2005,vn,vi,Papua New Guinea,0
+2005,vn,vi,North Korea,0
+2005,vn,vi,Singapore,0
+2005,vn,vi,Thailand,0
+2005,vn,vi,Vietnam,0
+2005,vn,vi,Taiwan,0
+2005,vn,vi,French Guiana,0
+2005,vn,vi,South Sudan,0
+2005,tr,tr,Angola,0
+2005,tr,tr,Burundi,0
+2005,tr,tr,Benin,0
+2005,tr,tr,Burkina Faso,0
+2005,tr,tr,Botswana,0
+2005,tr,tr,Central African Republic,0
+2005,tr,tr,Cote d'Ivoire,0
+2005,tr,tr,Cameroon,0
+2005,tr,tr,Republic of the Congo,0
+2005,tr,tr,Eritrea,0
+2005,tr,tr,Ethiopia,0
+2005,tr,tr,Gabon,0
+2005,tr,tr,Ghana,0
+2005,tr,tr,Guinea,0
+2005,tr,tr,Gambia,0
+2005,tr,tr,Guinea-Bissau,0
+2005,tr,tr,Kenya,0
+2005,tr,tr,Liberia,0
+2005,tr,tr,Lesotho,0
+2005,tr,tr,Madagascar,0
+2005,tr,tr,Mali,0
+2005,tr,tr,Mozambique,0
+2005,tr,tr,Mauritania,0
+2005,tr,tr,Mauritius,0
+2005,tr,tr,Malawi,0
+2005,tr,tr,Namibia,0
+2005,tr,tr,Niger,0
+2005,tr,tr,Nigeria,0
+2005,tr,tr,Rwanda,0
+2005,tr,tr,Sudan,0
+2005,tr,tr,Senegal,0
+2005,tr,tr,Sierra Leone,0
+2005,tr,tr,Somalia,0
+2005,tr,tr,Chad,0
+2005,tr,tr,Togo,0
+2005,tr,tr,Tanzania,0
+2005,tr,tr,Uganda,0
+2005,tr,tr,South Africa,0
+2005,tr,tr,Democratic Republic of the Congo,0
+2005,tr,tr,Zambia,0
+2005,tr,tr,Zimbabwe,0
+2005,tr,tr,Afghanistan,0
+2005,tr,tr,Bangladesh,0
+2005,tr,tr,Bhutan,0
+2005,tr,tr,India,0
+2005,tr,tr,Sri Lanka,0
+2005,tr,tr,Nepal,0
+2005,tr,tr,Pakistan,0
+2005,tr,tr,Canada,0
+2005,tr,tr,United States,0
+2005,tr,tr,United Arab Emirates,0
+2005,tr,tr,Algeria,0
+2005,tr,tr,Egypt,0
+2005,tr,tr,Iran,0
+2005,tr,tr,Iraq,0
+2005,tr,tr,Israel,0
+2005,tr,tr,Jordan,0
+2005,tr,tr,Kuwait,0
+2005,tr,tr,Lebanon,0
+2005,tr,tr,Libya,0
+2005,tr,tr,Morocco,0
+2005,tr,tr,Oman,0
+2005,tr,tr,Qatar,0
+2005,tr,tr,Saudi Arabia,0
+2005,tr,tr,Syria,0
+2005,tr,tr,Tunisia,0
+2005,tr,tr,West Bank,0
+2005,tr,tr,Yemen,0
+2005,tr,tr,Argentina,0
+2005,tr,tr,Bolivia,0
+2005,tr,tr,Brazil,0
+2005,tr,tr,Chile,0
+2005,tr,tr,Colombia,0
+2005,tr,tr,Costa Rica,0
+2005,tr,tr,Cuba,0
+2005,tr,tr,Dominican Republic,0
+2005,tr,tr,Ecuador,0
+2005,tr,tr,Guatemala,0
+2005,tr,tr,Honduras,0
+2005,tr,tr,Haiti,0
+2005,tr,tr,Jamaica,0
+2005,tr,tr,Mexico,0
+2005,tr,tr,Nicaragua,0
+2005,tr,tr,Panama,0
+2005,tr,tr,Peru,0
+2005,tr,tr,Puerto Rico,0
+2005,tr,tr,Paraguay,0
+2005,tr,tr,El Salvador,0
+2005,tr,tr,Uruguay,0
+2005,tr,tr,Venezuela,0
+2005,tr,tr,Albania,0
+2005,tr,tr,Armenia,0
+2005,tr,tr,Austria,0
+2005,tr,tr,Azerbaijan,0
+2005,tr,tr,Belgium,0
+2005,tr,tr,Bulgaria,0
+2005,tr,tr,Bosnia and Herzegovina,0
+2005,tr,tr,Belarus,0
+2005,tr,tr,Switzerland,0
+2005,tr,tr,Czech Republic,0
+2005,tr,tr,Germany,0
+2005,tr,tr,Denmark,0
+2005,tr,tr,Spain,0
+2005,tr,tr,Estonia,0
+2005,tr,tr,Finland,0
+2005,tr,tr,France,0
+2005,tr,tr,United Kingdom,0
+2005,tr,tr,Georgia,0
+2005,tr,tr,Greece,0
+2005,tr,tr,Greenland,0
+2005,tr,tr,Croatia,0
+2005,tr,tr,Hungary,0
+2005,tr,tr,Ireland,0
+2005,tr,tr,Italy,0
+2005,tr,tr,Kazakhstan,0
+2005,tr,tr,Kyrgyzstan,0
+2005,tr,tr,Lithuania,0
+2005,tr,tr,Macedonia,0
+2005,tr,tr,Netherlands,0
+2005,tr,tr,Norway,0
+2005,tr,tr,Poland,0
+2005,tr,tr,Portugal,0
+2005,tr,tr,Romania,0
+2005,tr,tr,Russia,0
+2005,tr,tr,Serbia,0
+2005,tr,tr,Slovakia,0
+2005,tr,tr,Slovenia,0
+2005,tr,tr,Sweden,0
+2005,tr,tr,Tajikistan,0
+2005,tr,tr,Turkmenistan,0
+2005,tr,tr,Turkey,0
+2005,tr,tr,Ukraine,0
+2005,tr,tr,Uzbekistan,0
+2005,tr,tr,Australia,0
+2005,tr,tr,China,0
+2005,tr,tr,Hong Kong,0
+2005,tr,tr,Indonesia,0
+2005,tr,tr,Japan,0
+2005,tr,tr,Cambodia,0
+2005,tr,tr,South Korea,0
+2005,tr,tr,Laos,0
+2005,tr,tr,Macau,0
+2005,tr,tr,Myanmar,0
+2005,tr,tr,Mongolia,0
+2005,tr,tr,Malaysia,0
+2005,tr,tr,New Zealand,0
+2005,tr,tr,Philippines,0
+2005,tr,tr,Papua New Guinea,0
+2005,tr,tr,North Korea,0
+2005,tr,tr,Singapore,0
+2005,tr,tr,Thailand,0
+2005,tr,tr,Vietnam,0
+2005,tr,tr,Taiwan,0
+2005,tr,tr,French Guiana,0
+2005,tr,tr,South Sudan,0
+2005,it,it,Angola,42
+2005,it,it,Burundi,32
+2005,it,it,Benin,24
+2005,it,it,Burkina Faso,24
+2005,it,it,Botswana,26
+2005,it,it,Central African Republic,10
+2005,it,it,Cote d'Ivoire,56
+2005,it,it,Cameroon,27
+2005,it,it,Republic of the Congo,25
+2005,it,it,Eritrea,48
+2005,it,it,Ethiopia,68
+2005,it,it,Gabon,18
+2005,it,it,Ghana,43
+2005,it,it,Guinea,43
+2005,it,it,Gambia,4
+2005,it,it,Guinea-Bissau,10
+2005,it,it,Kenya,61
+2005,it,it,Liberia,32
+2005,it,it,Lesotho,13
+2005,it,it,Madagascar,39
+2005,it,it,Mali,133
+2005,it,it,Mozambique,30
+2005,it,it,Mauritania,23
+2005,it,it,Mauritius,1800
+2005,it,it,Malawi,14
+2005,it,it,Namibia,16
+2005,it,it,Niger,38
+2005,it,it,Nigeria,82
+2005,it,it,Rwanda,37
+2005,it,it,Sudan,94
+2005,it,it,Senegal,49
+2005,it,it,Sierra Leone,27
+2005,it,it,Somalia,83
+2005,it,it,Chad,13
+2005,it,it,Togo,47
+2005,it,it,Tanzania,45
+2005,it,it,Uganda,54
+2005,it,it,South Africa,9
+2005,it,it,Democratic Republic of the Congo,22
+2005,it,it,Zambia,29
+2005,it,it,Zimbabwe,42
+2005,it,it,Afghanistan,787
+2005,it,it,Bangladesh,57
+2005,it,it,Bhutan,6
+2005,it,it,India,1130
+2005,it,it,Sri Lanka,84
+2005,it,it,Nepal,25
+2005,it,it,Pakistan,150
+2005,it,it,Canada,849
+2005,it,it,United States,2994
+2005,it,it,United Arab Emirates,43
+2005,it,it,Algeria,93
+2005,it,it,Egypt,637
+2005,it,it,Iran,898
+2005,it,it,Iraq,3050
+2005,it,it,Israel,1480
+2005,it,it,Jordan,97
+2005,it,it,Kuwait,87
+2005,it,it,Lebanon,140
+2005,it,it,Libya,94
+2005,it,it,Morocco,125
+2005,it,it,Oman,11
+2005,it,it,Qatar,98
+2005,it,it,Saudi Arabia,121
+2005,it,it,Syria,511
+2005,it,it,Tunisia,105
+2005,it,it,West Bank,320
+2005,it,it,Yemen,24
+2005,it,it,Argentina,689
+2005,it,it,Bolivia,36
+2005,it,it,Brazil,982
+2005,it,it,Chile,86
+2005,it,it,Colombia,87
+2005,it,it,Costa Rica,32
+2005,it,it,Cuba,121
+2005,it,it,Dominican Republic,23
+2005,it,it,Ecuador,52
+2005,it,it,Guatemala,49
+2005,it,it,Honduras,36
+2005,it,it,Haiti,36
+2005,it,it,Jamaica,27
+2005,it,it,Mexico,709
+2005,it,it,Nicaragua,43
+2005,it,it,Panama,45
+2005,it,it,Peru,17
+2005,it,it,Puerto Rico,6
+2005,it,it,Paraguay,23
+2005,it,it,El Salvador,33
+2005,it,it,Uruguay,52
+2005,it,it,Venezuela,103
+2005,it,it,Albania,100
+2005,it,it,Armenia,24
+2005,it,it,Austria,606
+2005,it,it,Azerbaijan,12
+2005,it,it,Belgium,614
+2005,it,it,Bulgaria,111
+2005,it,it,Bosnia and Herzegovina,47
+2005,it,it,Belarus,47
+2005,it,it,Switzerland,1100
+2005,it,it,Czech Republic,134
+2005,it,it,Germany,3420
+2005,it,it,Denmark,160
+2005,it,it,Spain,2180
+2005,it,it,Estonia,62
+2005,it,it,Finland,142
+2005,it,it,France,3680
+2005,it,it,United Kingdom,400
+2005,it,it,Georgia,72
+2005,it,it,Greece,693
+2005,it,it,Greenland,19
+2005,it,it,Croatia,117
+2005,it,it,Hungary,137
+2005,it,it,Ireland,150
+2005,it,it,Italy,23100
+2005,it,it,Kazakhstan,33
+2005,it,it,Kyrgyzstan,17
+2005,it,it,Lithuania,77
+2005,it,it,Macedonia,42
+2005,it,it,Netherlands,182
+2005,it,it,Norway,123
+2005,it,it,Poland,741
+2005,it,it,Portugal,563
+2005,it,it,Romania,156
+2005,it,it,Russia,1300
+2005,it,it,Serbia,91
+2005,it,it,Slovakia,89
+2005,it,it,Slovenia,112
+2005,it,it,Sweden,517
+2005,it,it,Tajikistan,15
+2005,it,it,Turkmenistan,19
+2005,it,it,Turkey,785
+2005,it,it,Ukraine,133
+2005,it,it,Uzbekistan,34
+2005,it,it,Australia,738
+2005,it,it,China,2930
+2005,it,it,Hong Kong,529
+2005,it,it,Indonesia,138
+2005,it,it,Japan,1530
+2005,it,it,Cambodia,42
+2005,it,it,South Korea,145
+2005,it,it,Laos,19
+2005,it,it,Macau,17
+2005,it,it,Myanmar,32
+2005,it,it,Mongolia,42
+2005,it,it,Malaysia,48
+2005,it,it,New Zealand,23
+2005,it,it,Philippines,79
+2005,it,it,Papua New Guinea,12
+2005,it,it,North Korea,115
+2005,it,it,Singapore,105
+2005,it,it,Thailand,119
+2005,it,it,Vietnam,128
+2005,it,it,Taiwan,133
+2005,it,it,French Guiana,3
+2005,it,it,South Sudan,0

@@ -1,0 +1,12 @@
+Description of modules and scripts:
+coordinate_distance.py - utility function for calculating geodesic distance given two sets of coordinates
+country_code_add_locations.py - adding a locations column to country dataset (using country_centroids_all.csv)
+country_code_mapping.py - dictionary mapping countries to country codes
+country_code_mapping_generator.py - script to create the above country code mapping
+country_gdp_code_converter.py - converting the raw country-gdp-pop dataset into countrycode-gdp-pop
+country_lang_mapping.py - dictionary mapping countries to languages
+country_to_code.py - utility function for converter country names to ISO-3166 codes
+gnews_annual_cross_section_generator.py - script for generating annual cross-sections from a google news dataset
+gnews_annual_regression_dataset_generator.py - script for generating the final dataset to feed into the regression
+lang_country_mapping.py - dictionary mapping languages to countries (exact inverse of country_code_mapping)
+lang_location_generator.py - script to add location to language datasets
